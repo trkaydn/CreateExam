@@ -1,0 +1,12 @@
+C:\Users\Tarik Aydin\Desktop\CreateExam.Data\obj\Debug\net5.0\CreateExam.Data.csproj.AssemblyReference.cache
+C:\Users\Tarik Aydin\Desktop\CreateExam.Data\obj\Debug\net5.0\CreateExam.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarik Aydin\Desktop\CreateExam.Data\obj\Debug\net5.0\CreateExam.Data.AssemblyInfoInputs.cache
+C:\Users\Tarik Aydin\Desktop\CreateExam.Data\obj\Debug\net5.0\CreateExam.Data.AssemblyInfo.cs
+C:\Users\Tarik Aydin\Desktop\CreateExam.Data\obj\Debug\net5.0\CreateExam.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tarik Aydin\Desktop\CreateExam.Data\bin\Debug\net5.0\CreateExam.Data.deps.json
+C:\Users\Tarik Aydin\Desktop\CreateExam.Data\bin\Debug\net5.0\CreateExam.Data.dll
+C:\Users\Tarik Aydin\Desktop\CreateExam.Data\bin\Debug\net5.0\ref\CreateExam.Data.dll
+C:\Users\Tarik Aydin\Desktop\CreateExam.Data\bin\Debug\net5.0\CreateExam.Data.pdb
+C:\Users\Tarik Aydin\Desktop\CreateExam.Data\obj\Debug\net5.0\CreateExam.Data.dll
+C:\Users\Tarik Aydin\Desktop\CreateExam.Data\obj\Debug\net5.0\ref\CreateExam.Data.dll
+C:\Users\Tarik Aydin\Desktop\CreateExam.Data\obj\Debug\net5.0\CreateExam.Data.pdb
